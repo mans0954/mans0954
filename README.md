@@ -3,17 +3,25 @@
 <details>
   
   - Main contributions to Mathlib
+    - Order
+      - [Scott Continuity](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Order/ScottContinuity.lean)
+      - [Complete Partial Orders](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Order/CompletePartialOrder.lean)
     - Topologies on a Preorder
       - [Lower and Upper Topology](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Topology/Order/LowerUpperTopology.lean)
+      - [Upper and Lower Set Topology](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Topology/Order/UpperLowerSetTopology.lean)
       - [Scott Topology](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Topology/Order/ScottTopology.lean)
       - [Lawson Topology](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Topology/Order/LawsonTopology.lean)
       - [Hull-Kernel Topology](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Topology/Order/HullKernel.lean)
     - Functional Analysis
       - [L-summands](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Analysis/NormedSpace/MStructure.lean)
       - [Bipolar Theorem](https://github.com/leanprover-community/mathlib4/pull/26345)
+      - [Banach Lattices](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Analysis/Normed/Order/Lattice.lean)
     - Algebra
       - [Jordan Algebras](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Jordan/Basic.lean)
       - [Special Jordan Algebras](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Symmetrized.lean)
+      - [The centroid](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Ring/CentroidHom.lean)
+      - [Centroid of a *-ring](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Star/CentroidHom.lean)
+      - [Lattice Ordered Groups](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Order/Group/Lattice.lean)
       
 </details>
 
