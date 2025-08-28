@@ -2,6 +2,11 @@
 
 <details>
   
+  - Publications
+    - M. Alqurashi, N.A. Altwaijry, C.M. Edwards, and C.S. Hoskin, The Banach-Lie *-algebra of multiplication operators on a W*-algebra, Asian-Eur. J. Math., 4(2), (2011), 235--261.
+    - C.M. Edwards, F.J. Fernández-Polo, C.S. Hoskin, and A.M. Peralta, On the facial structure of the unit ball in a JB*-triple, J. Reine Angew. Math. 641, (2010), 123--144.
+    - C.M. Edwards and C.S. Hoskin, Central kernels of subspaces of JB*-triples, J. Math. Anal. Appl., 332(2), (2007), 947--964.
+    - C.M. Edwards and C.S. Hoskin, The central kernel of the Peirce-one space, Arch. Math. (Basel), 81(4), (2003), 416--421.
   - Main contributions to Mathlib
     - Order
       - [Scott Continuity](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Order/ScottContinuity.lean)
