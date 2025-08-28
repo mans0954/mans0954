@@ -22,6 +22,32 @@
       - [The centroid](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Ring/CentroidHom.lean)
       - [Centroid of a *-ring](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Star/CentroidHom.lean)
       - [Lattice Ordered Groups](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/Algebra/Order/Group/Lattice.lean)
+      - [Basis expansion of a quadratic map](https://github.com/leanprover-community/mathlib4/pull/18578)
+  - Significant refactors
+    - The Strong Dual
+      - https://github.com/leanprover-community/mathlib4/pull/28726
+      - https://github.com/leanprover-community/mathlib4/pull/27699
+    - [split Analysis/Convex/Normed into smaller files](https://github.com/leanprover-community/mathlib4/pull/22015)
+    - [Unify concepts of Scott Topology](https://github.com/leanprover-community/mathlib4/pull/16523)
+    - Sesquilinear Forms to Sesquilinear Maps
+      - https://github.com/leanprover-community/mathlib4/pull/14988
+      - https://github.com/leanprover-community/mathlib4/pull/12547
+      - https://github.com/leanprover-community/mathlib4/pull/12132
+      - https://github.com/leanprover-community/mathlib4/pull/12124
+      - https://github.com/leanprover-community/mathlib4/pull/12122
+      - https://github.com/leanprover-community/mathlib4/pull/12078
+      - https://github.com/leanprover-community/mathlib4/pull/11280
+      - https://github.com/leanprover-community/mathlib4/pull/11278
+      - https://github.com/leanprover-community/mathlib4/pull/11097
+    - Quadratic Forms to Quadratic Maps
+      - https://github.com/leanprover-community/mathlib4/pull/7569
+    - Non-unital, non-associative algebras
+      - https://github.com/leanprover-community/mathlib4/pull/13089
+      - https://github.com/leanprover-community/mathlib4/pull/12924
+      - https://github.com/leanprover-community/mathlib4/pull/12938
+  - All Mathlib PRs
+    - [Mathlib4](https://github.com/leanprover-community/mathlib4/pulls?q=+is%3Apr+author%3Amans0954+)
+    - [Mathlib3](https://github.com/leanprover-community/mathlib3/pulls?q=is%3Apr+author%3Amans0954+)
       
 </details>
 
