@@ -30,6 +30,8 @@
     - [split Analysis/Convex/Normed into smaller files](https://github.com/leanprover-community/mathlib4/pull/22015)
     - [Unify concepts of Scott Topology](https://github.com/leanprover-community/mathlib4/pull/16523)
     - Sesquilinear Forms to Sesquilinear Maps
+      <details>
+        
       - https://github.com/leanprover-community/mathlib4/pull/14988
       - https://github.com/leanprover-community/mathlib4/pull/12547
       - https://github.com/leanprover-community/mathlib4/pull/12132
@@ -39,12 +41,18 @@
       - https://github.com/leanprover-community/mathlib4/pull/11280
       - https://github.com/leanprover-community/mathlib4/pull/11278
       - https://github.com/leanprover-community/mathlib4/pull/11097
+      
+      </details>
     - Quadratic Forms to Quadratic Maps
       - https://github.com/leanprover-community/mathlib4/pull/7569
     - Non-unital, non-associative algebras
+      <details>
+        
       - https://github.com/leanprover-community/mathlib4/pull/13089
       - https://github.com/leanprover-community/mathlib4/pull/12924
       - https://github.com/leanprover-community/mathlib4/pull/12938
+
+      </details>
   - All Mathlib PRs
     - [Mathlib4](https://github.com/leanprover-community/mathlib4/pulls?q=+is%3Apr+author%3Amans0954+)
     - [Mathlib3](https://github.com/leanprover-community/mathlib3/pulls?q=is%3Apr+author%3Amans0954+)
